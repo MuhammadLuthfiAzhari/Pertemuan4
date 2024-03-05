@@ -1,0 +1,1 @@
+print("Hey kenapa kamu kalau nonton dangdut sukanya bilang jugat jugit joss")
