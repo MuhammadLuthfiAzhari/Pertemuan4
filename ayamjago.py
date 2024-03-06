@@ -13,7 +13,10 @@ df = df[['kelas', 'nama', 'nilai']]
 
 # Menampilkan DataFrame dengan urutan kolom yang baru
 print(df)
+<<<<<<< HEAD
 
 
 print("perubahan cuyyy bro")
 print("perubahan baru lagi cuy")
+=======
+>>>>>>> main
